@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxmx03" alt="maxmx03" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Desktop Project**
-
-- 🌱 I’m currently learning **Laravel, PHP, Vue.js**
-
-- 💬 Ask me about **React, React Native, Express.js**
-
 - 📫 How to reach me **miliaordelcanto@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
