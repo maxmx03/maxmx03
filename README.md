@@ -1,7 +1,10 @@
-<h1 align="center">Hi, I'm Max a Full Stack Developer</h1>
+<div align="center">
+  <h1>Hi, I'm Max a Full Stack Developer</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maxmx03&theme=onedark)](https://github.com/maxmx03/github-profile-trophy)
 
+<div align="left">
+  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -53,8 +56,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
+</div>
 
-<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxmx03&show_icons=true&locale=en&layout=compact&theme=dark" alt="maxmx03" /></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxmx03&show_icons=true&locale=en&layout=compact&theme=dark" alt="maxmx03" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -64,4 +69,6 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjjz-gqjmkoqxmwtusu_kgq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjjz-gqjmkoqxmwtusu_kgq" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.buymeacoffee.com/milianor" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/milianor" target="_blank"><img align="left" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+ 
+</div>
