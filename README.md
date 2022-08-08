@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/max-del-canto-81373123b/">
+  <a href="https://www.linkedin.com/in/max-miliano-81373123b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UCJjz-gqjmkoqXmWTUSU_kgQ">
