@@ -1,3 +1,7 @@
+<div>
+<img src="https://c.tenor.com/0KRw0tXyxvEAAAAC/yo-kazuma-konosuba.gif" alt="kuzuma" />
+</div>
+
 <div align="center">
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxmx03&show_icons=true&locale=en&layout=compact&theme=dark" alt="maxmx03" /></p>
 
