@@ -1,12 +1,16 @@
+
+
+
 <div>
 <img src="https://c.tenor.com/0KRw0tXyxvEAAAAC/yo-kazuma-konosuba.gif" alt="kuzuma" />
 </div>
 
 <div align="center">
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxmx03&show_icons=true&locale=en&layout=compact&theme=dark" alt="maxmx03" /></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxmx03&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="maxmx03" />
+</p>
 
-<main>
-  </main>
+<img src="https://github-readme-stats.vercel.app/api?username=maxmx03&count_private=true&show_icons=true&theme=gruvbox" />
+
 
 <footer>
 <h3 align="left">Connect with me:</h3>
@@ -23,5 +27,5 @@
    <img align="left" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
 </a>
 </footer>
-  
+
 
