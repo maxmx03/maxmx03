@@ -1,6 +1,3 @@
-<img align="center" src="https://c.tenor.com/0KRw0tXyxvEAAAAC/yo-kazuma-konosuba.gif" /><br />
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxmx03&show_icons=true&locale=en&layout=compact&theme=solarized-dark" /><br />
   
 <img src="https://github-readme-stats.vercel.app/api?username=maxmx03&count_private=true&show_icons=true&theme=solarized-dark" /><br />
