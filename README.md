@@ -1,10 +1,37 @@
-<h3>Connect with me:</h3><br />
+### Hi there, I'm Max Miliano 👋
 
-<a align="left" href="https://www.youtube.com/channel/UCJjz-gqjmkoqXmWTUSU_kgQ">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a><br /><br />
+I'm a software engineer who loves building things and solving problems. I'm currently learning more about full-stack development, machine learning, and cloud technologies.
 
-<a align="left" href="https://www.buymeacoffee.com/milianor" target="_blank">
- <img align="left" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+- 🌱 I'm currently learning more about full-stack development, machine learning, and cloud technologies.
+- 📫 You can reach me at [milianordelcanto@gmail.com](mailto:milianordelcanto@gmail.com) or on [Twitter](https://twitter.com/Milianor1).
+- 🔗 Check out my [website](https://milianor-site.vercel.app/) for more information about me and my work.
+
+### Languages and Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxmx03&layout=compact&theme=radical)](https://github.com/maxmx03)
+
+### Connect with me
+
+<a href="https://www.youtube.com/channel/UCJjz-gqjmkoqXmWTUSU_kgQ">
+  <img align="left" alt="Max Miliano's YouTube" width="22px" src="https://raw.githubusercontent.com/maxmx03/maxmx03/main/icons/youtube.svg" />
+</a>
+<a href="https://twitter.com/Milianor1">
+  <img align="left" alt="Max Miliano's Twitter" width="22px" src="https://raw.githubusercontent.com/maxmx03/maxmx03/main/icons/twitter.svg" />
+</a>
+<a href="https://github.com/maxmx03">
+  <img align="left" alt="Max Miliano's GitHub" width="22px" src="https://raw.githubusercontent.com/maxmx03/maxmx03/main/icons/github.svg" />
 </a>
 
+<br />
+<br />
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/milianor" target="_blank">
+ <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="Buy Me A Coffee" />
+</a>
+
+<br />
+<br />
+
+[![Max Miliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxmx03&show_icons=true&theme=radical)](https://github.com/maxmx03)
