@@ -13,14 +13,14 @@ I'm a software engineer who loves building things and solving problems. I'm curr
 ### Connect with me
 
 <a href="https://www.youtube.com/channel/UCJjz-gqjmkoqXmWTUSU_kgQ">
-  <img align="left" alt="Max Miliano's YouTube" width="22px" src="https://raw.githubusercontent.com/maxmx03/maxmx03/main/icons/youtube.svg" />
+  <img align="left" alt="Max Miliano's YouTube" width="40px" src="https://raw.githubusercontent.com/maxmx03/maxmx03/main/icons/youtube.svg" />
 </a>
 <a href="https://twitter.com/Milianor1">
-  <img align="left" alt="Max Miliano's Twitter" width="22px" src="https://raw.githubusercontent.com/maxmx03/maxmx03/main/icons/twitter.svg" />
-</a>
+  <img align="left" alt="Max Miliano's Twitter" width="40px" src="https://raw.githubusercontent.com/maxmx03/maxmx03/main/icons/twitter.svg" />
+</a>&nbsp;
 <a href="https://github.com/maxmx03">
-  <img align="left" alt="Max Miliano's GitHub" width="22px" src="https://raw.githubusercontent.com/maxmx03/maxmx03/main/icons/github.svg" />
-</a>
+  <img align="left" alt="Max Miliano's GitHub" width="40px" src="https://raw.githubusercontent.com/maxmx03/maxmx03/main/icons/github.svg" />
+</a>&nbsp;
 
 <br />
 <br />
