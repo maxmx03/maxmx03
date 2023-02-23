@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maxmx03/maxmx03/main/img/nier.gif" width="1000">
-</div>
-
 ### Hi there, I'm Max Miliano 👋
 
 I'm a software engineer who loves building things and solving problems. I'm currently learning more about full-stack development, machine learning, and cloud technologies.
