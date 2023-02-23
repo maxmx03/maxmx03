@@ -8,8 +8,8 @@ I'm a software engineer who loves building things and solving problems. I'm curr
 
 ### Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxmx03&layout=compact&theme=radical)](https://github.com/maxmx03)
-[![Max Miliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxmx03&show_icons=true&theme=radical)](https://github.com/maxmx03)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxmx03&layout=compact&theme=radical)](https://github.com/maxmx03)
+[![Max Miliano's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=maxmx03&show_icons=true&theme=radical)](https://github.com/maxmx03)
 
 ### Connect with me
 
