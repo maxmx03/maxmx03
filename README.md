@@ -13,7 +13,7 @@ I'm a software engineer who loves building things and solving problems. I'm curr
 
 ### Connect with me
 
-<a href="https://www.youtube.com/channel/UCJjz-gqjmkoqXmWTUSU_kgQ">
+<a href="https://www.youtube.com/channel/UCITtX6ezIfzuDK3iR5DrbsA">
   <img align="left" alt="Max Miliano's YouTube" width="50px" src="https://raw.githubusercontent.com/maxmx03/maxmx03/main/icons/youtube.svg" />
 </a>
 <a href="https://twitter.com/Milianor1">
