@@ -12,10 +12,3 @@
 <a href="https://steamcommunity.com/id/milianor">
   <img align="left" alt="Milianor's steam" width="50px" src="https://raw.githubusercontent.com/maxmx03/maxmx03/main/icons/sus.svg" />
 </a>
-
-<br />
-<br />
-
-### Support Me
-
-<iframe src="https://github.com/sponsors/maxmx03/button" title="Sponsor maxmx03" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
