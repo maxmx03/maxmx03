@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxmx03&layout=compact&theme=radical)](https://github.com/maxmx03)
+
 ### Connect with me
 
 <a href="https://www.youtube.com/channel/UCITtX6ezIfzuDK3iR5DrbsA">
