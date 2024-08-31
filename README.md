@@ -1,3 +1,3 @@
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxmx03&theme=solarized-dark&hide=css)](https://github.com/maxmx03)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxmx03\&layout=donut-vertical&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
-![Max's github stats](https://github-readme-stats.vercel.app/api?username=maxmx03&hide=contribs,prst&theme=solarized-dark&show_icons=true)
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxmx03\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
