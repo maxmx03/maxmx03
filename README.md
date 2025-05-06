@@ -19,7 +19,9 @@ Beyond programming, I have a few other passions:
 * **Reading:** Always eager to learn new things and explore different perspectives through books.
 * **Helping Others:** I find great satisfaction in assisting fellow learners and sharing knowledge.
 
-<img src="https://github.com/user-attachments/assets/34f05dba-7221-4a3b-8436-6d53ce49f9ec" align="right">
+<a href="https://youtu.be/0R4jIyg12YY?si=wbmR2S_bMxUicQtu">
+ <img src="https://github.com/user-attachments/assets/34f05dba-7221-4a3b-8436-6d53ce49f9ec" align="right">
+</a>
 
 ## Check out my YouTube Channel!
 
