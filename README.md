@@ -6,7 +6,7 @@ Hello! 👋 I'm a developer passionate about programming. In this space, I share
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxmx03&bg_color=30,293774,9051A2,FA5D66&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxmx03&layout=compact&bg_color=30,293774,9051A2,FA5D66&title_color=fff&text_color=fff&langs_count=10&exclude_repo=milianor-vim,nvim-ide-do-zero,curso-lua,retrolegends.nvim" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxmx03&layout=compact&bg_color=30,293774,9051A2,FA5D66&title_color=fff&text_color=fff&langs_count=10&exclude_repo=milianor-vim,nvim-ide-do-zero,curso-lua" />
 </a>
 
 ## What I Enjoy
