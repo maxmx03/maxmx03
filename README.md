@@ -20,6 +20,7 @@ Beyond programming, I have a few other passions:
 * **RPGs:** Immersing myself in rich stories and character development in role-playing games.
 * **Reading:** Always eager to learn new things and explore different perspectives through books.
 * **Helping Others:** I find great satisfaction in assisting fellow learners and sharing knowledge.
+* **Favorite Band:** [Malice Mizer](https://en.wikipedia.org/wiki/Malice_Mizer) is my favorite band; I'm completely hooked on them! I can't stop listening to their music—I play it daily. I've been listening to their music since 2010, and I even created a YouTube [playlist](https://youtube.com/playlist?list=PLRQTSis2KT5FiaOC7_yi2MMA-4og0g12Q&si=_KPdnE5DahTQG6bB).
 
 <a href="https://youtu.be/0R4jIyg12YY?si=wbmR2S_bMxUicQtu">
  <img src="https://github.com/user-attachments/assets/34f05dba-7221-4a3b-8436-6d53ce49f9ec" align="right">
