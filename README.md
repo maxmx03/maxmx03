@@ -1,14 +1,14 @@
 ## Max Del Canto
 
-![views](https://komarev.com/ghpvc/?username=maxmx03&color=red)
+![views](https://komarev.com/ghpvc/?username=maxmx03&color=c678dd)
 
 Hello! 👋 I'm a developer passionate about programming. In this space, I share my personal projects, open-source contributions, and a bit of my journey in the world of programming. Feel free to explore my repositories and get in touch!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxmx03&bg_color=30,293774,9051A2,FA5D66&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxmx03&bg_color=1c1f24&title_color=c678dd&text_color=a9a1e1&border_color=c678dd" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxmx03&layout=compact&bg_color=30,293774,9051A2,FA5D66&title_color=fff&text_color=fff&langs_count=10&exclude_repo=milianor-vim,nvim-ide-do-zero,curso-lua" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxmx03&layout=compact&bg_color=1c1f24&title_color=c678dd&text_color=bbc2cf&border_color=c678dd&langs_count=10&exclude_repo=milianor-vim,nvim-ide-do-zero,curso-lua" />
 </a>
 
 ## What I Enjoy
@@ -28,6 +28,6 @@ Beyond programming, I have a few other passions:
 
 ## Check out my YouTube Channel!
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Milianor%20Labs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCITtX6ezIfzuDK3iR5DrbsA)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Milianor%20Labs-c678dd?style=for-the-badge&logo=youtube&logoColor=bbc2cf)](https://www.youtube.com/channel/UCITtX6ezIfzuDK3iR5DrbsA)
 
 On my YouTube channel, **Milianor Labs**, I share tutorials and insights about programming, Come join the community!
