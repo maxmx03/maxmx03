@@ -8,7 +8,7 @@ Hello! 👋 I'm a developer passionate about programming. In this space, I share
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxmx03&bg_color=1c1f24&title_color=c678dd&text_color=a9a1e1&border_color=c678dd" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxmx03&layout=compact&bg_color=1c1f24&title_color=c678dd&text_color=bbc2cf&border_color=c678dd&langs_count=10&exclude_repo=milianor-vim,nvim-ide-do-zero,curso-lua" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxmx03&layout=compact&bg_color=1c1f24&title_color=c678dd&text_color=bbc2cf&border_color=c678dd&langs_count=10&exclude_repo=milianor-vim,nvim-ide-do-zero,curso-lua&hide=vue,html" />
 </a>
 
 ## What I Enjoy
