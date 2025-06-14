@@ -28,6 +28,6 @@ Beyond programming, I have a few other passions:
 
 ## Check out my YouTube Channel!
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Milianor%20Labs-c678dd?style=for-the-badge&logo=youtube&logoColor=bbc2cf)](https://www.youtube.com/channel/UCITtX6ezIfzuDK3iR5DrbsA)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Milianor%20CH-c678dd?style=for-the-badge&logo=youtube&logoColor=bbc2cf)](https://www.youtube.com/channel/UCITtX6ezIfzuDK3iR5DrbsA)
 
-On my YouTube channel, **Milianor Labs**, I share tutorials and insights about programming, Come join the community!
+On my YouTube channel, **Milianor**, I share tutorials and insights about programming, Come join the community!
