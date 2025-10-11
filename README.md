@@ -1,4 +1,4 @@
-## Max Del Canto
+## Max
 
 ![views](https://komarev.com/ghpvc/?username=maxmx03&color=c678dd)
 
