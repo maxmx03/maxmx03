@@ -19,10 +19,13 @@
 ---
 
 ### 📊 Coding Stats
+
+<div align="center">
+ 
 [![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=maxmx03&theme=apprentice&hide_border=true&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
 [![Max Stats](https://helio-github-stats.vercel.app/api?username=maxmx03&custom_title=Max+Stats&theme=apprentice&title_color=ffd600&text_color=8e8e93&icon_color=ffd600&ring_color=ffd600&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
-<div align="center">
 <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=maxmx03&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Languages&langs_count=8" alt="Languages" width="466" height="auto" loading="lazy"/></a>
+
 </div>
 
 ---
