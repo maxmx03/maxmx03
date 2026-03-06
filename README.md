@@ -1,3 +1,6 @@
+
+<img width="1415" height="478" alt="20260305_21h00m13s_grim" src="https://github.com/user-attachments/assets/41757175-4a63-4b2f-a86e-8db6465b9c38" />
+
 [![Profile Views](https://komarev.com/ghpvc/?username=maxmx03&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 
 **Building high-performance digital products with Flutter & Deno.** Currently available for freelance opportunities and technical partnerships.
